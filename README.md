@@ -1,7 +1,7 @@
 # 🐍 The Python Voyage
 *Charting my journey through Python, one commit at a time ⛵*
 
-<p align="center">
+<p>
   <img src="https://img.shields.io/badge/Learning-Python-3776AB?logo=python&logoColor=white" alt="Learning Python Badge"/>
   <img src="https://img.shields.io/badge/Commit-Daily-2ea44f?logo=github" alt="Daily Commits Badge"/>
   <img src="https://img.shields.io/badge/Made%20with%20❤️-India-FF9933" alt="Made in India Badge"/>
